@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello
+<hr>
 
-<!--
-**RoCoderXD/RoCoderXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not super pro at C++, but it's a work in progress.
+Pretty good at Lua.
+Good enough at Python.
+Decent at PHP.
+Ok at CSS.
+As good as one needs to be at HTML.
+JS very roughly.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't like Java, sue me.
